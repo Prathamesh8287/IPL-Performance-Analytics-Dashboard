@@ -2,11 +2,13 @@
 
 An interactive, one-page Power BI dashboard that analyses **1,243 IPL matches (2008–2026)**: scoring trends, toss impact, venues, team performance and top players. It is built on ball-by-ball JSON data from Cricsheet, cleaned in Power Query and modelled with DAX.
 
+## Dashboard Preview
+
 ### Overall IPL Performance Dashboard
-![IPL Dashboard Overview](dashboard-overview.png)
+![IPL Dashboard Overview](IPL_Dashboard_Overview.png)
 
 ### Season-wise Analysis (2020)
-![IPL Dashboard - 2020 Season](dashboard-season-filter.png)
+![IPL Dashboard - 2020 Season](IPL_Dashborad_SeasonSpecific.png)
 
 > 🎥 Walkthrough video: [add LinkedIn post or video link here]
 

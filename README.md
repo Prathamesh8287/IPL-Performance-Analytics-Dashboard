@@ -10,7 +10,7 @@ An interactive, one-page Power BI dashboard that analyses **1,243 IPL matches (2
 ### Season-wise Analysis (2020)
 ![IPL Dashboard - 2020 Season](IPL_Dashborad_SeasonSpecific.png)
 
-> 🎥 Walkthrough video: [add LinkedIn post or video link here]
+> 🎥 Walkthrough video: https://lnkd.in/p/dnU_5r6M
 
 ---
 
